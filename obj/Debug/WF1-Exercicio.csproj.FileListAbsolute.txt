@@ -1,0 +1,11 @@
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\BD\CSharpBD\WF1-Exercicio\bin\Debug\WF1-Exercicio.exe.config
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\BD\CSharpBD\WF1-Exercicio\bin\Debug\WF1-Exercicio.exe
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\BD\CSharpBD\WF1-Exercicio\bin\Debug\WF1-Exercicio.pdb
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\BD\CSharpBD\WF1-Exercicio\obj\Debug\WF1-Exercicio.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\BD\CSharpBD\WF1-Exercicio\obj\Debug\WF1-Exercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\BD\CSharpBD\WF1-Exercicio\obj\Debug\WF1_Exercicio.Form1.resources
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\BD\CSharpBD\WF1-Exercicio\obj\Debug\WF1_Exercicio.Properties.Resources.resources
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\BD\CSharpBD\WF1-Exercicio\obj\Debug\WF1-Exercicio.csproj.GenerateResource.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\BD\CSharpBD\WF1-Exercicio\obj\Debug\WF1-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\BD\CSharpBD\WF1-Exercicio\obj\Debug\WF1-Exercicio.exe
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\BD\CSharpBD\WF1-Exercicio\obj\Debug\WF1-Exercicio.pdb
